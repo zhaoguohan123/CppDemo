@@ -1,0 +1,40 @@
+﻿生成启动时间为 2020/5/9 20:07:09。
+     1>项目“C:\CppCode\CppDemo\2. 访问控件的七种方式\DemoDialog\DemoDialog\DemoDialog.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\DemoDialog.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\DemoDialog.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DemoDialogDlg.cpp
+         DemoDialogDlg.cpp
+     1>c:\cppcode\cppdemo\2. 访问控件的七种方式\demodialog\demodialog\demodialogdlg.cpp(184): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\wchar.h(866) : 参见“_itow”的声明
+     1>c:\cppcode\cppdemo\2. 访问控件的七种方式\demodialog\demodialog\demodialogdlg.cpp(203): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\wchar.h(866) : 参见“_itow”的声明
+     1>c:\cppcode\cppdemo\2. 访问控件的七种方式\demodialog\demodialog\demodialogdlg.cpp(244): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\wchar.h(866) : 参见“_itow”的声明
+     1>c:\cppcode\cppdemo\2. 访问控件的七种方式\demodialog\demodialog\demodialogdlg.cpp(266): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\wchar.h(866) : 参见“_itow”的声明
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\DemoDialog.res" DemoDialog.rc 
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\CppCode\CppDemo\2. 访问控件的七种方式\DemoDialog\Debug\DemoDialog.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\DemoDialog.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\CppCode\CppDemo\2. 访问控件的七种方式\DemoDialog\Debug\DemoDialog.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\CppCode\CppDemo\2. 访问控件的七种方式\DemoDialog\Debug\DemoDialog.lib" /MACHINE:X86 Debug\DemoDialog.res
+         Debug\DemoDialog.exe.embed.manifest.res
+         Debug\DemoDialog.obj
+         Debug\DemoDialogDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\DemoDialog.exe.embed.manifest" /manifest Debug\DemoDialog.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         DemoDialog.vcxproj -> C:\CppCode\CppDemo\2. 访问控件的七种方式\DemoDialog\Debug\DemoDialog.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\DemoDialog.unsuccessfulbuild”。
+         正在对“Debug\DemoDialog.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\CppCode\CppDemo\2. 访问控件的七种方式\DemoDialog\DemoDialog\DemoDialog.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.90
