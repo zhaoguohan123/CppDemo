@@ -1,2 +1,2 @@
 # CppDemo
-1. 上传工作和学习相关的东西
+1. Cpp Prime学习记录以及demo验证
